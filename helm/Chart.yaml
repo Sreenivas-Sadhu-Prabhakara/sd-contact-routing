@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-contact-routing
+description: "BIAN Service Domain: Contact Routing (Process pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - process
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Channels"
+  bian/asset-type: "Contact Routing Record"
+  bian/control-record: "Contact Routing Record Procedure"
